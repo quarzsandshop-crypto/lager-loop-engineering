@@ -1,0 +1,12 @@
+{
+  "name": "lager-dashboard",
+  "requiredWidgets": [
+    "mode",
+    "dhlCount",
+    "processed",
+    "ignored",
+    "notFound",
+    "blocked",
+    "liveDatabaseStatus"
+  ]
+}

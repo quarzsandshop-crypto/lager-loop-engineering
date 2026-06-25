@@ -1,0 +1,32 @@
+{
+  "dhlCount": 4,
+  "rows": [
+    {
+      "trackingNumber": "JVGL100000001",
+      "status": "processed",
+      "family": "Q2",
+      "kg": 25,
+      "material": "Papier",
+      "materialRule": "simple_marker_confirmed_by_photo",
+      "cartonDecision": "carton_25kg_standard"
+    },
+    {
+      "trackingNumber": "JVGL100000002",
+      "status": "processed",
+      "family": "Q2",
+      "kg": 24,
+      "material": "Plastik",
+      "materialRule": "packaging_not_25kg_majority_stock",
+      "cartonDecision": "carton_25kg_standard"
+    },
+    {
+      "trackingNumber": "JVGL100000003",
+      "status": "ignored",
+      "reason": "not_our_goods"
+    },
+    {
+      "trackingNumber": "JVGL100000004",
+      "status": "not_found"
+    }
+  ]
+}

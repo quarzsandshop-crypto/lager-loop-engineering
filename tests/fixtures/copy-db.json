@@ -1,0 +1,14 @@
+{
+  "mode": "L1",
+  "databaseKind": "copy",
+  "stock": {
+    "Q2_25": {
+      "kgBestand": 100,
+      "kgUebrig": 25
+    },
+    "Q2P_25": {
+      "kgBestand": 80,
+      "kgUebrig": 10
+    }
+  }
+}
